@@ -1,4 +1,4 @@
-Hello, I'm Syed Maaz, your dedicated front-end developer, and Software Engineer passionate about creating captivating digital experiences.
+I'm Syed Maaz, your dedicated front-end developer and Software Engineer passionate about creating captivating digital experiences.
 
 <a href="https://github.com/syedmaazsaeed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,7 +17,7 @@ syed-maaz-saeed-908718204
 
 ### Glad to see you here!
 
-I'm Syed Maaz, a proficient front-end developer with a passion for crafting engaging and user-friendly web experiences. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in the world of web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities.
+I'm Syed Maaz, a proficient front-end developer  and Software Engineer passionate about crafting engaging and user-friendly web experiences. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities.
 
 <br/>
 
@@ -29,9 +29,9 @@ I'm Syed Maaz, a proficient front-end developer with a passion for crafting enga
 
 - 🌱 I’m currently learning Node.js
 
-- ❓ Ask me about anything related to Web Develpment
+- ❓ Ask me about anything related to Web Development
 
-- ⚡ Fun fact: I keep night shift swithed on at all times
+- ⚡ Fun fact: I keep the night shift switched on at all times
 
 </td><td valign="top" width="50%">
 
