@@ -16,7 +16,7 @@ I'm Syed Maaz, your dedicated front-end developer and Software Engineer passiona
 
 ### Glad to see you here!
 
-I'm Syed Maaz, a proficient front-end developer  and Software Engineer passionate about crafting engaging and user-friendly web experiences. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities.
+I'm Syed Maaz, a proficient front-end developer  and Software Engineer passionate about crafting engaging and user-friendly web experiences. My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is both delightful and purposeful.
 
 <br/>
 
