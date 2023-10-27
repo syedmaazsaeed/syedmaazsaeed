@@ -1,6 +1,7 @@
 Warmest regards! I'm excited to interact with you!
 
-<h1> About ME </h1>
+<h1 style="font-size: 24px; color: cyan;">About ME</h1>
+
 
 I'm Syed Maaz, your dedicated front-end developer and Software Engineer passionate about creating captivating digital experiences.
 
