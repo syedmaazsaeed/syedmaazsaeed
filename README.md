@@ -74,6 +74,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 
 <br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" /></p>
+
+<br/>
+
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square)
