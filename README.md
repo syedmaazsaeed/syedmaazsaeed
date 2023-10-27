@@ -55,7 +55,7 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 </div>
 
 </td></tr></table>
-
+<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/6b471f22f9d24856a21b223b7b8b87b5.png?r=hag" width="400" alt="Syed Muhammad Maaz's Dev Card"/></a>
 <br/>
 
 ## Languages and Tools
