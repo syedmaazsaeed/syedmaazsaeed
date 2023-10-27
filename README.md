@@ -82,9 +82,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 </td></tr></table>
 
 <br/>
+<table><tr><td valign="top" width="50%">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" /></p>
-
+</td></tr></table>
 <br/>
 
 <br/>
