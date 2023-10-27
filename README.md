@@ -22,7 +22,7 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 
 ## Snapshot
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" Color="black">
   
 ✨ Creating bugs since the early days of my coding journey.
 
@@ -77,7 +77,7 @@ Accomplishments 🥈 :
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&count_private=true&hide_border=true" align="left"  style="width: 100%" style="Color: black" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&count_private=true&hide_border=true" align="left"  style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
