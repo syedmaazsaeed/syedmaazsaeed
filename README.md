@@ -89,6 +89,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 <br/>
 
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmaazsaeed&show_icons=true&locale=en&layout=compact" alt="syedmaazsaeed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&locale=en" alt="syedmaazsaeed" /></p>
+<br/>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square)
