@@ -23,13 +23,18 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 ## Snapshot
 
 <table><tr><td valign="top" width="50%">
+  
+✨ Creating bugs since the early days of my coding journey.
+
+🎯 Goals: Advancing web development proficiency.
 
 - 🔭 I’m currently working on React.js
-
 - 🌱 I’m currently learning Node.js
-
 - ❓ Ask me about anything related to Web Development
-
+- 👯 I am open to collaborating with others on front-end development projects.
+- 📝 Currently, I am pursuing a bachelor's degree in Software Engineering.
+- 🌱 Currently, I am expanding my skills in web development with a focus on learning MERN Stack.
+- 📧 Feel free to contact me via Email for any inquiries or collaboration opportunities. [syedmaazsaeed@gmail.com](syedmaazsaeed@gmail.com)
 - ⚡ Fun fact: I keep the night shift switched on at all times
 - 🗝️ Programmers Never Die.
 
