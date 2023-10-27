@@ -88,9 +88,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 <br/>
 
 <br/>
+</td><td valign="top" width="50%">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square)
-
+ </td></tr></table>
 <br/>
 
 <br />
