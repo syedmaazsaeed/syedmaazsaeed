@@ -1,3 +1,7 @@
+Warmest regards! I'm excited to interact with you!
+
+<h1> About ME </h1>
+
 I'm Syed Maaz, your dedicated front-end developer and Software Engineer passionate about creating captivating digital experiences.
 
 <a href="https://github.com/syedmaazsaeed" target="_blank">
