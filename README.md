@@ -40,7 +40,7 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="background-color: black; color: cyan;">Your Content Goes Here</td>
+    <td valign="top" width="50%";">Your Content Goes Here</td>
   </tr>
 </table>
 
