@@ -34,7 +34,7 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 - 👯 I am open to collaborating with others on front-end development projects.
 - 📝 Currently, I am pursuing a bachelor's degree in Software Engineering.
 - 🌱 Currently, I am expanding my skills in web development with a focus on learning MERN Stack.
-- 📧 Feel free to contact me via Email for any inquiries or collaboration opportunities. [syedmaazsaeed@gmail.com](syedmaazsaeed@gmail.com)
+- 📧 Feel free to contact me via Email [syedmaazsaeed@gmail.com] for any inquiries or collaboration opportunities. 
 - ⚡ Fun fact: I keep the night shift switched on at all times
 - 🗝️ Programmers Never Die.
 
