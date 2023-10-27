@@ -67,6 +67,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
   
 </div>
 
+Accomplishments 🥈 : 
+
+[![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
+
 <br/>
 
 ## Github Stats
