@@ -101,34 +101,35 @@ Accomplishments 🥈 :
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
+<img  src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&hide_border=true&theme=react" width="48%" align="right" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&count_private=true&hide_border=true" align="left"  style="width: 100%" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&theme=react" width="48%" >
+<br>
 
-</td><td valign="top" width="50%">
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark)
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<a href="https://github.com/syedmaazsaeed" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
+</a>
 
-</td></tr></table>
+<div align="center" style="margin-top: 20px;" >
+<img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
 
-<br/>
-<table><tr><td valign="top" width="50%">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" /></p>
-</td></tr></table>
-<br/>
-
-<br/>
-
-
+</div>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square)
 
-
-
-<br/>
-
-<br />
+<p align="center" style="margin-top: 30px;">
+    <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+</p>
 
 ---
