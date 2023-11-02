@@ -75,7 +75,6 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </p>
   </td>
 <td>
-
   <a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/6b471f22f9d24856a21b223b7b8b87b5.png?r=hag" width="600" alt="Syed Maaz Saeed developer card "/></a>
 </td>
 </tr>
