@@ -1,10 +1,19 @@
 Warmest regards! I'm excited to interact with you!
 
-<h1 style="font-size: 24px; color: cyan;">About ME</h1>
+# 💫 About Me:
 
+As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degree in Software Engineering. I am passionate about developing amazing user experiences, and I have skills in HTML, CSS, JavaScript, JQuery, React.js, React Redux ToolKit, Bootstrap, Node JS, Express JS, MongoDB, Git, Github, and Deployment. I am now Exploring the MERN stack Development(MongoDB, Express.js, React.js, Node.js) in order to learn and Polish my skills.I actively collaborate with others as an open-source contributor to drive innovation. Let's embark on a collaborative journey to bring your vision to life with a professional touch that ensures excellence at every step.Our passion for innovation and expertise in web development will drive us to exceed your expectations💻💻💻.
 
-I'm Syed Maaz, your dedicated front-end developer and Software Engineer passionate about creating captivating digital experiences.
+<details>
+  <summary>Click to Expand for more details 🤭</summary>
 
+- Previous Experience: I have created many projects in JavaScript and React.js.
+- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+- Education: I hold a Bachelor's degree in Software  Engineering from Islamia University Of Bahawalpur.
+  ✨💫💫
+-  My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is both delightful and purposeful. With years of experience in the field, I have honed my abilities to create exceptional user interfaces that leave a lasting impression.✨💫💫
+
+</details>
 <a href="https://github.com/syedmaazsaeed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=purple alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,9 +28,7 @@ I'm Syed Maaz, your dedicated front-end developer and Software Engineer passiona
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!
 
-I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionate about crafting engaging and user-friendly Web Experiences. My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is both delightful and purposeful. With years of experience in the field, I have honed my abilities to create exceptional user interfaces that leave a lasting impression.
 
 <br/>
 
@@ -39,9 +46,10 @@ I'm Syed Maaz, a proficient Front-End Developer  and Software Engineer passionat
 - 👯 I am open to collaborating with others on front-end development projects.
 - 📝 Currently, I am pursuing a bachelor's degree in Software Engineering.
 - 🌱 Currently, I am expanding my skills in web development with a focus on learning MERN Stack.
-- 📧 Feel free to contact me via Email [syedmaazsaeed@gmail.com] for any inquiries or collaboration opportunities. 
+- 📧 Feel free to contact me via <a href="mailto:syedmaazsaeed@gmail.com">Email</a> for any inquiries or collaboration opportunities. 
 - ⚡ Fun fact: I keep the night shift switched on at all times
 - 🗝️ Programmers Never Die.
+- - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-maaz-saeed-908718204) or [Instagram](https://www.instagram.com/syedmaazsaeed/).
 
 <table>
   <tr>
