@@ -8,6 +8,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 <details>
   <summary>Click to Expand for more details 🤭</summary>
+  <br>
 
 - Previous Experience: I have created many projects in JavaScript and React.js.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
