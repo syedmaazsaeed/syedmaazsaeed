@@ -87,7 +87,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 ## 🌟 Recent Achievements 🌟
 
-- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://holopin.io/@syedmaazsaeed
+- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2023 Open Source Contributor [See Profile](https://holopin.io/@syedmaazsaeed
 )
 
 - 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Syed Maaz Saeed](https://tree-nation.com/trees/view/5327641)
@@ -107,7 +107,7 @@ Accomplishments 🥈 :
 
 <img  src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&hide_border=true&theme=react" width="48%" align="right" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" width="30%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" width="55%" />
 
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark)
