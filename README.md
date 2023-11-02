@@ -34,27 +34,12 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 - 🗝️ Programmers Never Die.
 - - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-maaz-saeed-908718204) or [Instagram](https://www.instagram.com/syedmaazsaeed/).
 
-<table>
-  <tr>
-    <td valign="top" width="50%";">Your Content Goes Here</td>
-  </tr>
-</table>
-
-
-<div align="centre">
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" style="width: 50%" />
-</div>
-
-</td></tr></table>
-<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/6b471f22f9d24856a21b223b7b8b87b5.png?r=hag" width="400" alt="Syed Muhammad Maaz's Dev Card"/></a>
-<br/>
-
 ### Areas of Expertise
 
 <p align="left">
   <a href="https://html5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>  
 <a href="https://www.w3.org/Style/CSS/.
-" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+"target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
@@ -69,7 +54,45 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 <a href="https://www.oracle.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="70"/></a> </p>
 
+### Furthermore, I'm familiar with 🙂:
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</p>
+
+### Let's connect and see where our shared passion for technology can take us! 💻🚀
+<a href="https://twitter.com/SyedMaazSaeed/" target="_blank">
+ <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+ <a href="https://www.instagram.com/syedmaazsaeed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a> 
+  <a href="https://www.facebook.com/syedmaazsaeed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</p>
+  </td>
+<td>
+
+  <a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/6b471f22f9d24856a21b223b7b8b87b5.png?r=hag" width="600" alt="Syed Maaz Saeed developer card "/></a>
+</td>
+</tr>
+</table>
+
+## 🌟 Recent Achievements 🌟
+
+- 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2k23 Open Source Contributor [See Profile](https://holopin.io/@syedmaazsaeed
+)
+
+- 🌳 **Environmental Advocate:** Contributed to a greener planet by planting a tree through Tree Nation. [Forest of Syed Maaz Saeed](https://tree-nation.com/trees/view/5327641)
+- 🛡️ **Holopin Badges:** Check out my Holopin badges showcasing my contributions and achievements. [Holopin Profile](https://holopin.io/@syedmaazsaeed)
+
+- - 🎓 **Certified in Basic React:** Completed the Basic React course, enhancing my web development skills. [See Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
+
+- 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong foundation for my career in technology.
+- 
 Accomplishments 🥈 : 
 
 [![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
