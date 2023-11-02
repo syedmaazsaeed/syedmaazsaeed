@@ -65,7 +65,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 </p>
 
 ### Let's connect and see where our shared passion for technology can take us! 💻🚀
-<a href="https://twitter.com/SyedMaazSaeed/" target="_blank">
+
  <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -75,6 +75,8 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
   <a href="https://www.facebook.com/syedmaazsaeed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://twitter.com/SyedMaazSaeed/" target="_blank">
+    <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
 </p>
   </td>
 <td>
