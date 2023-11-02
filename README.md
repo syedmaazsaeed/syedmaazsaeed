@@ -106,9 +106,9 @@ Accomplishments 🥈 :
 ## Github Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&show_icons=true&hide_border=true&theme=react" width="48%"  
- margin="top"/>
+ />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" width="50%" align="right" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" width="50%" align="left" />
 
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark)
