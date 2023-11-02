@@ -94,7 +94,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 - - 🎓 **Certified in Basic React:** Completed the Basic React course, enhancing my web development skills. [See Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
 
 - 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong foundation for my career in technology.
-- 
+  
 Accomplishments 🥈 : 
 
 [![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
