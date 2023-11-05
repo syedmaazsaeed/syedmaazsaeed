@@ -97,7 +97,7 @@ As a self-taught Front-End Web Developer from Pakistan, I hold a Bachelor's degr
 
 - 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong foundation for my career in technology.
   
-Accomplishments 🥈 : 
+## 🌟 Accomplishments 🥈 🌟 : 
 
 [![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
 
