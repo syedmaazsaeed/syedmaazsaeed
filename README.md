@@ -1,7 +1,7 @@
 Warmest regards! I'm excited to interact with you!
 
 [![Welcome msg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Digital+World!+%F0%9F%8C%90;The+Place+where+i+fork%F0%9F%91%8B)](https://git.io/typing-svg)
-<a target="_blank" href="https://imageupload.io/L1IilFD0bO9FzQh"><img  src="https://imageupload.io/ib/7yJoE1mx77H6uZH_1699522709.jpg" alt="Landing Page (1).jpg"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img  src="https://imageupload.io/ib/7yJoE1mx77H6uZH_1699522709.jpg" alt="Landing Page (1).jpg"/></a>
 
 
 # 💫 About Me:
