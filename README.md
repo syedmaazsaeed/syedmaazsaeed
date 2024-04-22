@@ -64,7 +64,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,scss,markdown,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
@@ -81,7 +81,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ### Others
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,postman,netlify,vercel,vite,vscode,powershell,yarn,linux,jupyter,prettier,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,netlify,vercel,vite,vscode,powershell,&perline=4" /> 
 </div>
 </a>
 </td></tr></table>
