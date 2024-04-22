@@ -14,11 +14,7 @@ Skills: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolk
 
 Current Focus: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
 
-Collaboration: Actively collaborates as an open-source contributor to drive innovation.
-
 Professional Identity: Software Engineer, Hacker, passionate about Web and Mobile App Development.
-
-Approach: Turns ideas into digital realities with a professional touch, ensuring excellence.
 
 Personal Interests: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
 
@@ -60,7 +56,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+### Frontend 
 
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">  
