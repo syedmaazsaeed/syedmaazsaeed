@@ -54,26 +54,37 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 - ⚡ Fun fact: I keep the night shift switched on at all times
 - 🗝️ Programmers Never Die.
 - - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-maaz-saeed-908718204) or [Instagram](https://www.instagram.com/syedmaazsaeed/).
+ 
+    
+## My Skill Set 🛠️:
 
-### Areas of Expertise
+<table><tr><td valign="top" width="33%">
 
-<p align="left">
-  <a href="https://html5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>  
-<a href="https://www.w3.org/Style/CSS/.
-"target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React" height="50" /></a>
-   </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="50"/>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/> </a>
-<a href="https://cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="70"/></a> </p>
+### Frontend
+
+<a href="http://github.com/zeeshanMukhtar1/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,scss,markdown,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="33%">
+
+### Backend
+
+<a href="http://github.com/zeeshanMukhtar1/">
+<div align="center">   
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongo&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="33%">
+  
+### Others
+<a href="http://github.com/zeeshanMukhtar1/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,postman,netlify,vercel,vite,vscode,powershell,yarn,linux,jupyter,prettier,&perline=4" /> 
+</div>
+</a>
+</td></tr></table>
 
 ### Furthermore, I'm familiar with 🙂:
 
