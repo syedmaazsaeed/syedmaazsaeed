@@ -7,12 +7,19 @@ Warmest regards! I'm excited to interact with you!
 # 💫 About Me:
 
 Background: Self-taught Front-End Web Developer from Pakistan with a Bachelor's degree in Software Engineering.
+
 Passion: Passionate about developing amazing user experiences.
+
 Skills: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Git, Github, and Deployment.
+
 Current Focus: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
+
 Collaboration: Actively collaborates as an open-source contributor to drive innovation.
+
 Professional Identity: Software Engineer, Hacker, passionate about Web and Mobile App Development.
+
 Approach: Turns ideas into digital realities with a professional touch, ensuring excellence.
+
 Personal Interests: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
 
 Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development | Turning ideas into Digital realities ✈ | Technology Enthusiast | Open-Source Contributor | Continuous Learner | Problem Solver |Fitness Enthusiast |Explorer of New Technologies |
