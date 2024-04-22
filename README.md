@@ -14,8 +14,6 @@ Skills: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolk
 
 Current Focus: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
 
-Professional Identity: Software Engineer, Hacker, passionate about Web and Mobile App Development.
-
 Personal Interests: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
 
 Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development | Turning ideas into Digital realities ✈ | Technology Enthusiast | Open-Source Contributor | Continuous Learner | Problem Solver |Fitness Enthusiast |Explorer of New Technologies |
