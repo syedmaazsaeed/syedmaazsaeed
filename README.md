@@ -102,9 +102,9 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
 </p>
   </td>
-<td>
+
 <a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/v2/yh8mHayGxdZgBkLjOrNLu.png?type=wide&r=93t" width="652" alt="Syed Muhammad Maaz's Dev Card"/></a>
-</td>
+
 </tr>
 </table>
 
