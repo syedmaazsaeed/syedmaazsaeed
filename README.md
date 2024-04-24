@@ -104,10 +104,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <img src="https://bayrivercolleges.ca/files/logo-x-twitter.svg" width="52" height="40" alt="X logo"  />
 </p>
   </td>
-
-<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/v2/yh8mHayGxdZgBkLjOrNLu.png?type=wide&r=93t" width="652" alt="Syed Muhammad Maaz's Dev Card"/></a>
-
-</tr>
 </table>
 
 ## 🌟 Recent Achievements 🌟
@@ -164,6 +160,14 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <a href="https://github.com/syedmaazsaeed" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/v2/yh8mHayGxdZgBkLjOrNLu.png?type=wide&r=93t" width="652" alt="Syed Muhammad Maaz's Dev Card"/></a>
+
+</tr>
+</table>
 
 <div id="quote-container">
   <h2 id="quote-title" align="center">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
