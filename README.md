@@ -137,6 +137,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
         </a>
       </p>
     </td>
+     </tr>
 </table>
 <br />
 
