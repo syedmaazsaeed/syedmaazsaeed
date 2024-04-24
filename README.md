@@ -2,7 +2,7 @@ Warmest regards! I'm excited to interact with you!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&weight=300&size=27&pause=1000&color=351A92&center=true&random=false&width=435&lines=Crafting+React+Experiences+%E2%9C%A8;Shaping+Frontend+Realities+%F0%9F%8C%9F;Embracing+the+MERN+Stack+Journey+%F0%9F%9A%80;Explore+My+Digital+Haven+%F0%9F%8C%90;Enthusiastic+about+MERN+Innovations+%F0%9F%8C%9F;Welcome+to+My+Tech+Playground+%F0%9F%9A%80;Building+Tomorrow's+Frontend+Today+%F0%9F%8C%90;Step+into+My+Digital+Wonderland+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Hello-World.gif](https://i.postimg.cc/Ssr4sKgV/Hello-World.gif)](https://postimg.cc/ZBC2sJty)
+<a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img src="https://i.postimg.cc/QCZVNhV0/Hello-World.png" alt="Green-Professional-Gamer-Linked-In-Banner-4" border="0" width="2300" /></a> 
 
 
 
