@@ -75,6 +75,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </td><td valign="top" width="33%">
   
 ### Additional
+
 <a href="http://github.com/syedmaazsaeed/">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel,powershell,&perline=4" /> 
@@ -82,7 +83,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </a>
 </td></tr></table>
 
-### Furthermore, I'm familiar with 🙂:
+## Furthermore, I'm familiar with 🙂:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
@@ -139,7 +140,9 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   </tr>
 </table>
 <br />
+
 <!--Contribution Graph-->
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
@@ -160,7 +163,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <!--Contact Section--> 
 
-### Let's connect and see where our shared passion for technology can take us! 💻🚀
+## Let's connect and see where our shared passion for technology can take us! 💻🚀
 <div align="center">
  <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -180,12 +183,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <br/>
 
 <!--Buy me a coffee-->
+
 <div align="center">
 <a href="https://www.buymeacoffee.com/syedmaazsaeed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-
 <!--Footer--> 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
