@@ -172,8 +172,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="https://www.instagram.com/syedmaazsaeed" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=syedmaaz Instagram style="margin-bottom: 6px;" />
-</a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 
 <a href="https://twitter.com/SyedMaazSaeed" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="syedmaaz Twitter" style="margin-bottom: 6px;" />
