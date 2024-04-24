@@ -69,7 +69,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=nodejs,express,MongoDB,MySQL,csharp&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,csharp&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
