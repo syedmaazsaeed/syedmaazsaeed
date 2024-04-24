@@ -124,7 +124,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/syedmaazsaeed">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -132,8 +132,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/syedmaazsaeed">
+          <img align="center" src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
