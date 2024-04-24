@@ -169,11 +169,11 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
-  <p id="quote-text">"Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
+  
 </blockquote>
 <!--STARTS_HERE_QUOTE_CARD-->
 <figure align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=The%20measure%20of%20who%20we%20are%20is%20what%20we%20do%20with%20what%20we%20have.&theme=dark&bg_color=011627&author_color=ffeb95" alt="Quote by Vince Lombardi">
+ <p id="quote-text">"Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
   <figcaption>Quote by Vince Lombardi</figcaption>
 </figure>
 <!--ENDS_HERE_QUOTE_CARD-->
