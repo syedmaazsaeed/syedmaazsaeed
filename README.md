@@ -137,13 +137,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <tr>
 </table>
 <br />
-
-
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
