@@ -54,22 +54,22 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     
 ## My Skill Set 🛠️:
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="36%">
 
 ### Frontend 
 
-<a href="http://github.com/zeeshanMukhtar1/">
+<a href="http://github.com/syedmaazsaeed/">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,saas,js,react,&perline=4" /> 
 </div>
 </a>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="36%">
 
 ### Backend
 
-<a href="http://github.com/zeeshanMukhtar1/">
+<a href="http://github.com/syedmaazsaeed/">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,csharp&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,csharp,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
