@@ -146,6 +146,46 @@ align="right" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
 
+<div id="quote-container">
+  <h2 id="quote-title" align="center">🌟 Quote of the Day 🌟</h2>
+  <p id="quote-text" align="center"></p>
+</div>
+
+<script>
+  function fetchQuote() {
+    // Fetch quote from an API or a predefined list
+    const quotes = [
+      "Programming is the art of creating something out of nothing.",
+      "The best error message is the one that never shows up.",
+      "Code is like humor. When you have to explain it, it’s bad.",
+      "The only way to learn a new programming language is by writing programs in it.",
+      "Coding is not just about fixing problems; it’s about creating solutions.",
+      "Programming is thinking, not typing."
+    ];
+
+    // Get the current date and time
+    const currentDate = new Date();
+    const currentHour = currentDate.getHours();
+
+    // Set the quote based on the hour of the day
+    const quoteIndex = currentHour % quotes.length;
+    document.getElementById('quote-text').innerText = quotes[quoteIndex];
+  }
+
+  // Call fetchQuote initially
+  fetchQuote();
+
+  // Set interval to update the quote every day at 12 PM (12:00:00)
+  setInterval(() => {
+    const currentDate = new Date();
+    if (currentDate.getHours() === 12 && currentDate.getMinutes() === 0 && currentDate.getSeconds() === 0) {
+      fetchQuote();
+    }
+  }, 1000); // Check every second for the time
+
+</script>
+
+
 <div align="center" style="margin-top: 20px;" >
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
 
