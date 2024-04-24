@@ -116,13 +116,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </tr>
 </table>
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- GitHub stats Table -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/syedmaazsaeed">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -130,7 +130,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/syedmaazsaeed">
           <img align="center" src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=nightowl" alt="Streak Stats" />
@@ -140,6 +140,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   </tr>
 </table>
 <br />
+
 
 
 <!--Contribution Graph-->
