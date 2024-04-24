@@ -22,6 +22,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   <summary>Click to Expand for more details 🤭</summary>
   <br>
 
+# Experience 
+
 - Previous Experience: I have created many projects in JavaScript and React.js.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
 - Education: I hold a Bachelor's degree in Software  Engineering from Islamia University Of Bahawalpur.
@@ -58,7 +60,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,saas,js,react,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
@@ -67,7 +69,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongo&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express,MongoDB,MySQL,csharp&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
