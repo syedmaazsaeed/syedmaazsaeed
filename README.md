@@ -147,8 +147,8 @@ align="right" />
 </a>
 
 <div id="quote-container">
-  <h2 id="quote-title" align="center">🌟 "From syntax errors to success stories. 📈💻" 🌟</h2>
-  <p id="quote-text" align="center"></p>
+  <h2 id="quote-title" align="center">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
+  <p id="quote-text" align="center">"Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
 </div>
 
 <div align="center" style="margin-top: 20px;" >
