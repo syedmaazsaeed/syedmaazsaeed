@@ -177,9 +177,9 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Get in Touch 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/syedmaazsaeed/" target="_blank">
+ <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
@@ -191,7 +191,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=syedmaaz Instagram style="margin-bottom: 6px;" />
 </a>
 
-<a href="https://twitter.com/syedmaazsaeed" target="_blank">
+<a href="https://twitter.com/SyedMaazSaeed" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="syedmaaz Twitter" style="margin-bottom: 6px;" />
 </a>
 </div>
@@ -208,7 +208,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square)
 
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
