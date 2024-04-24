@@ -69,7 +69,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <a href="http://github.com/syedmaazsaeed/">
 <div align="center">   
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,csharp,&perline=4" /> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="33%">
@@ -77,7 +77,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ### Others
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,netlify,vercel,vite,vscode,powershell,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,netlify,vercel,vite,vscode,powershell,terminal,&perline=4" /> 
 </div>
 </a>
 </td></tr></table>
