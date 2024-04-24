@@ -33,7 +33,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </details>
 
 <table style="border: none;" >
-
+<tr>
 <td style="text-align: justify;" >
   
 ✨ Creating bugs since the early days of my coding journey.
