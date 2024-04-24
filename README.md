@@ -129,16 +129,18 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
         </a>
       </p>
     </td>
-   <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/syedmaazsaeed">
           <img align="center" src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
-     </tr>
+  </tr>
 </table>
+<br />
+
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
