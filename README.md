@@ -147,7 +147,7 @@ align="right" />
 </a>
 
 <div id="quote-container">
-  <h2 id="quote-title" align="center">🌟 Quote of the Day 🌟</h2>
+  <h2 id="quote-title" align="center">🌟 "From syntax errors to success stories. 📈💻" 🌟</h2>
   <p id="quote-text" align="center"></p>
 </div>
 
