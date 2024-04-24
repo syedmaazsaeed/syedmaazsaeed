@@ -179,7 +179,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/syedmaazsaeed/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
@@ -199,7 +199,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/syedmaazsaeed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com/syedmaazsaeed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
