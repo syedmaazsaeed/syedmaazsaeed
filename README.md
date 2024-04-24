@@ -1,6 +1,6 @@
 Warmest regards! I'm excited to interact with you!
 
-[![Welcome msg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Digital+World!+%F0%9F%8C%90;The+Place+where+i+fork%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=351A92&random=false&width=435&lines=React+Developer;FrontEnd+Developer;MERN+Stack+Enthusiast;Welcome+to+my+Digital+World)](https://git.io/typing-svg)
 <a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img src="https://i.ibb.co/5cn1qf7/Green-Professional-Gamer-Linked-In-Banner-4.png" alt="Green-Professional-Gamer-Linked-In-Banner-4" border="0" width="2300" /></a>
 
 
@@ -74,8 +74,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </a>
 </td><td valign="top" width="33%">
   
-### Others
-<a href="http://github.com/zeeshanMukhtar1/">
+### Additional
+<a href="http://github.com/syedmaazsaeed/">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel,powershell,&perline=4" /> 
 </div>
@@ -169,19 +169,10 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
-  
-</blockquote>
-<!--STARTS_HERE_QUOTE_CARD-->
-<figure align="center">
- <p id="quote-text">"Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
-  <figcaption>Quote by Vince Lombardi</figcaption>
-</figure>
-<!--ENDS_HERE_QUOTE_CARD-->
-
+   <p id="quote-text">"Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
 
 <div align="center" style="margin-top: 20px;" >
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
-
 </div>
 
 
