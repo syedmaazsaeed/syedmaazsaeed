@@ -6,15 +6,15 @@ Warmest regards! I'm excited to interact with you!
 
 # 💫 About Me:
 
-Background: Self-taught Front-End Web Developer from Pakistan with a Bachelor's degree in Software Engineering.
+**Background**: Self-taught Front-End Web Developer from Pakistan with a Bachelor's degree in Software Engineering.
 
-Passion: Passionate about developing amazing user experiences.
+**Passion**: Passionate about developing amazing user experiences.
 
-Skills: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Git, Github, and Deployment.
+**Skills**: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Git, Github, and Deployment.
 
-Current Focus: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
+**Current Focus**: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
 
-Personal Interests: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
+**Personal Interests**: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
 
 Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development | Turning ideas into Digital realities ✈ | Technology Enthusiast | Open-Source Contributor | Continuous Learner | Problem Solver |Fitness Enthusiast |Explorer of New Technologies |
 
@@ -77,7 +77,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ### Others
 <a href="http://github.com/zeeshanMukhtar1/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,netlify,vercel,vite,vscode,powershell,terminal,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel,powershell,&perline=4" /> 
 </div>
 </a>
 </td></tr></table>
@@ -135,9 +135,12 @@ align="right" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&" alt="syedmaazsaeed" width="50%" />
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark)
-<br>
 
 <a href="https://github.com/syedmaazsaeed" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
