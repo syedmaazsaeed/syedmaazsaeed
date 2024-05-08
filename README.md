@@ -6,13 +6,13 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me :
 
-**Background**: Self-taught Front-End Web Developer from Pakistan with a Bachelor's degree in Software Engineering.
+**Background**: Self-taught Front-End Web Developer | MERN Stack Developer from Pakistan with a Bachelor's degree in Software Engineering.
 
 **Passion**: Passionate about developing amazing user experiences.
 
-**Skills**: Proficient in HTML, CSS, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Git, Github, and Deployment.
+**Skills**: Proficient in HTML5, CSS3, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Mongoose, Git, Github, and Deployment.
 
 **Current Focus**: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
 
