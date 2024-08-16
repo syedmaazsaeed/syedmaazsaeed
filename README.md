@@ -143,6 +143,10 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </table>
 <br />
 
+<!-- GitHub Trophy -->
+## 🏆 GitHub Trophy 🏆
+[![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+ <br />
 
 
 
