@@ -111,7 +111,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 ## Design
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 <br/>
 
