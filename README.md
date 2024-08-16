@@ -4,7 +4,22 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img src="https://i.postimg.cc/QCZVNhV0/Hello-World.png" alt="Green-Professional-Gamer-Linked-In-Banner-4" border="0" width="2300" /></a> 
 
+<!-- Intro  -->
+<h3 align="center">
+  <samp>&gt; Hi There!, I am
+    <b><a target="_blank" href="https://syedmaazsaeed-techfolio.vercel.app/">Syed Maaz Saeed</a></b>
+  </samp>
+</h3>
 
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Syed+Maaz+Saeed">「 Google Me 」</a>
+    <br>
+    「 I am a full-stack web application developer & Software Engineer from <b>Pakistan 🇵🇰</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 # 💫 About Me :
 
