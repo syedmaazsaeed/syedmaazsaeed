@@ -43,9 +43,9 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 - Previous Experience: I have created many projects in JavaScript and React.js.
 - Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
-- Education: I hold a Bachelor's degree in Software  Engineering from Islamia University Of Bahawalpur.
+- Education: I hold a Bachelor's in Software  Engineering from Islamia University Of Bahawalpur.
   ✨💫💫
--  My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is both delightful and purposeful. With years of experience in the field.✨💫💫
+-  My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is delightful and purposeful. With years of experience in the field.✨💫💫
 
 </details>
 
@@ -71,34 +71,56 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     
 ## My Skill Set 🛠️:
 
-<table><tr><td valign="top" width="36%">
 
-### Frontend 
+## Frontend Development
 
-<a href="http://github.com/syedmaazsaeed/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,saas,js,react,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="36%">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
-### Backend
 
-<a href="http://github.com/syedmaazsaeed/">
-<div align="center">   
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="33%">
-  
-### Additional
+## Backend Development
 
-<a href="http://github.com/syedmaazsaeed/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,vercel,powershell,&perline=4" /> 
-</div>
-</a>
-</td></tr></table>
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## DevOps & Deployment
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Tools & Utilities
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+
+## Design
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<br/>
+
+<hr/>
+<br/>
+
+<br/>
+
+
 
 ## Furthermore, I'm familiar with 🙂:
 
