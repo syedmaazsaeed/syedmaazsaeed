@@ -87,7 +87,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<br/>
 
 ## Furthermore, I'm familiar with 🙂:
 
@@ -127,7 +126,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     </td>
   </tr>
 </table>
-<br />
+
 
 <!-- GitHub Trophy -->
 ## 🏆 Achievement Showcase  🏆
