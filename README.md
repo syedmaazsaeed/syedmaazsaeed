@@ -140,7 +140,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   
 ## 🌟 Accomplishments 🥈 🌟 : 
 
-[![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
+[![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)] <br/>(https://holopin.io/@syedmaazsaeed)
 
 <br/>
 
