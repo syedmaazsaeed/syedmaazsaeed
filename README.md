@@ -21,21 +21,30 @@
 
 # 💫 About Me :
 
-**Background**: Self-taught Front-End Web Developer | MERN Stack Developer with a Bachelor's in Software Engineering.
+**Background**: Self-taught Front-End Web Developer | MERN Stack Developer from Pakistan with a Bachelor's degree in Software Engineering.
 
-**Passion**: Creating amazing user experiences.
+**Passion**: Passionate about developing amazing user experiences.
 
-**Skills**: HTML5, CSS3, JavaScript, JQuery, React.js, Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Git, GitHub, Deployment.
+**Skills**: Proficient in HTML5, CSS3, JavaScript, JQuery, React.js, React Redux Toolkit, Bootstrap, Node.js, Express.js, MongoDB, Mongoose, Git, Github, and Deployment.
 
-**Current Focus**: Enhancing MERN stack development skills.
+**Current Focus**: Exploring MERN stack development (MongoDB, Express.js, React.js, Node.js) to enhance skills.
 
-**Interests**: Technology enthusiast, continuous learner, problem solver, fitness enthusiast.
+**Personal Interests**: Technology enthusiast, continuous learner, problem solver, fitness enthusiast, explorer of new technologies
+
+Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development | Turning ideas into Digital realities ✈ | <br/> Technology Enthusiast | Open-Source Contributor | Continuous Learner | Problem Solver |Fitness Enthusiast |Explorer of New Technologies |
 
 <details>
-  <summary>More about my experience</summary>
-  - Created multiple projects in JavaScript and React.js.
-  - Bachelor's in Software Engineering from Islamia University Of Bahawalpur.
-  - Specialize in turning abstract ideas into digital realities.
+  <summary>Click to Expand for more details 🤭</summary>
+  <br>
+
+# Experience 
+
+- Previous Experience: I have created many projects in JavaScript and React.js.
+- Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+- Education: I hold a Bachelor's in Software  Engineering from Islamia University Of Bahawalpur.
+  ✨💫💫
+-  My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. With a keen eye for design and a strong foundation in coding, I specialize in bringing visual concepts to life through clean and efficient code. My journey in web development has equipped me with the skills to create seamless interfaces that resonate with users. Let's collaborate to turn your ideas into captivating digital realities. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is delightful and purposeful. With years of experience in the field.✨💫💫
+
 </details>
 
 ## 🛠️ My Skill Set:
