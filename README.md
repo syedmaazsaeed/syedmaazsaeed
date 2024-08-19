@@ -84,6 +84,15 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<br/>
+
+## Furthermore, I'm familiar with 🙂:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux "  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</p>
+
 ## 🌟 Recent Achievements
 
 - 🚀 **Hacktoberfest Contributor:** Hacktoberfest 2023 Open Source Contributor [Profile](https://holopin.io/@syedmaazsaeed)
@@ -92,6 +101,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 - 🎓 **Certified in Basic React:** [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
 - 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong <br/>foundation for my career in technology.
   
+## 🌟 Accomplishments 🥈 🌟 : 
 
 [![An image of @syedmaazsaeed's Holopin badges](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
 
