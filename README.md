@@ -66,7 +66,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 - 📧 Feel free to contact me via <a href="mailto:syedmaazsaeed@gmail.com">Email</a> for any inquiries or collaboration opportunities. 
 - ⚡ Fun fact: I keep the night shift switched on at all times
 - 🗝️ Programmers Never Die.
-- - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-maaz-saeed-908718204) or [Instagram](https://www.instagram.com/syedmaazsaeed/).
+- - 💬 Ask me about anything related to web development or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-maaz-saeed-908718204) <br/> or [Instagram](https://www.instagram.com/syedmaazsaeed/).
  
     
 ## My Skill Set 🛠️:
@@ -136,7 +136,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 - - 🎓 **Certified in Basic React:** Completed the Basic React course, enhancing my web development skills. [See Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
 
-- 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong <br/> foundation for my career in technology.
+- 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong <br/>   foundation for my career in technology.
   
 ## 🌟 Accomplishments 🥈 🌟 : 
 
