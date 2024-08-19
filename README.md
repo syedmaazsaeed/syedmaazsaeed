@@ -71,7 +71,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     
 ## My Skill Set 🛠️:
 
-
 ## Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -120,7 +119,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <br/>
 
 
-
 ## Furthermore, I'm familiar with 🙂:
 
 <p align="left">
@@ -138,7 +136,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 - - 🎓 **Certified in Basic React:** Completed the Basic React course, enhancing my web development skills. [See Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
 
-- 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong foundation for my career in technology.
+- 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong <br/> foundation for my career in technology.
   
 ## 🌟 Accomplishments 🥈 🌟 : 
 
