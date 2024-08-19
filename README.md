@@ -88,6 +88,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br/>
+
 ## Furthermore, I'm familiar with 🙂:
 
 <p align="left">
