@@ -88,7 +88,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br/>
-
 ## Furthermore, I'm familiar with 🙂:
 
 <p align="left">
@@ -134,8 +133,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
  <br />
-
-
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
