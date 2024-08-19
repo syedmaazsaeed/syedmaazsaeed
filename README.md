@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&weight=300&size=27&pause=1000&color=351A92&center=true&random=false&width=435&lines=Crafting+React+Experiences+%E2%9C%A8;Shaping+Frontend+Realities+%F0%9F%8C%9F;Embracing+the+MERN+Stack+Journey+%F0%9F%9A%80;Explore+My+Digital+Haven+%F0%9F%8C%90;Enthusiastic+about+MERN+Innovations+%F0%9F%8C%9F;Welcome+to+My+Tech+Playground+%F0%9F%9A%80;Building+Tomorrow's+Frontend+Today+%F0%9F%8C%90;Step+into+My+Digital+Wonderland+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img src="https://i.postimg.cc/QCZVNhV0/Hello-World.png" alt="Green-Professional-Gamer-Linked-In-Banner-4" border="0" width="2300" /></a> 
+<a target="_blank" href="https://www.linkedin.com/in/syed-maaz-saeed-908718204"><img src="https://i.postimg.cc/QCZVNhV0/Hello-World.png" alt="Green-Professional-Gamer-Linked-In-Banner-4" border="0" width="100%" /></a> 
 
 <!-- Intro  -->
 <h3 align="center">
@@ -140,14 +140,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 [![An image of @syedmaazsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
 
-
 <br/>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/v2/yh8mHayGxdZgBkLjOrNLu.png?type=wide&r=93t" width="652" alt="Syed Muhammad Maaz's Dev Card"/></a>
-
+    <td align="center">
+<a href="https://app.daily.dev/syedmuhammadmaaz"><img src="https://api.daily.dev/devcards/v2/yh8mHayGxdZgBkLjOrNLu.png?type=wide&r=93t" width="400" alt="Syed Muhammad Maaz's Dev Card"/></a>
+</td>
 </tr>
 </table>
 
@@ -164,7 +163,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td align="center">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/syedmaazsaeed">
