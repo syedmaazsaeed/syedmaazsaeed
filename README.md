@@ -40,10 +40,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 # Experience 
 
 -🌟Previous Experience: I have built numerous projects using JavaScript and React.js, showcasing my expertise in these technologies.
+
 -🚀Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+
 -🎓Education: I hold a Bachelor's in Software  Engineering from Islamia University Of Bahawalpur.
   ✨💫💫
--  I transform ideas into digital masterpieces, blending design with clean, efficient code to create engaging, functional user experiences. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is delightful and purposeful. With years of experience in the field.✨💫💫
+  
+-🧩My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. I transform ideas into digital masterpieces, blending design with clean, efficient code to create engaging, functional user experiences. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is delightful and purposeful. With years of experience in the field.✨💫💫
 
 </details>
 
