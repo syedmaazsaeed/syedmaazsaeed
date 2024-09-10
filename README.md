@@ -134,22 +134,19 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
  <br />
 
-<!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" style="border-radius: 15px;">
+</div>
+
 <style>
     @keyframes fadeIn {
         from { opacity: 0; }
         to { opacity: 1; }
     }
-
-    .animated-graph {
-        animation: fadeIn 2s ease-in-out;
-    }
 </style>
 
-<div align="center" class="animated-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" border-radius="15">
-</div>
 
 
 
