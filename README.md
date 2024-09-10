@@ -115,17 +115,18 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   </tr>
 </table>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<table width="100%">
+<h2 align="center" style="font-size: 28px; font-weight: bold; color: #61DAFB;">📊 GitHub Stats 📊</h2>
+<table width="100%" style="border-spacing: 20px;">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+    <td align="center" style="padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" style="border-radius: 10px; border: 2px solid #000;"/>
     </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" />
+    <td align="center" style="padding: 0;">
+      <img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=nightowl&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px; border: 2px solid #000;"/>
     </td>
   </tr>
 </table>
+
 
 
 
