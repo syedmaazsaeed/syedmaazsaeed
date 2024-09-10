@@ -121,19 +121,12 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <td align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-
-
    </td>
     <td align="center">
 <img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 <!-- GitHub Trophy -->
 ## 🏆 Achievement Showcase  🏆
@@ -145,26 +138,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" border-radius="15px">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </br>
