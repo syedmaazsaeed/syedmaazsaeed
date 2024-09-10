@@ -144,9 +144,10 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <h2 align="center">💻 Top Languages 💻</h2>
 <div align="center" style="margin: 20px;">
   <a href="https://github.com/syedmaazsaeed">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=gruvbox" alt="Coding language cocktail" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);" />
   </a>
 </div>
+
 
 
 <blockquote id="quote-container" align="center">
