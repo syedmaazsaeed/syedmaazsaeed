@@ -119,10 +119,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-    </td>
+<img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+
+
+   </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
