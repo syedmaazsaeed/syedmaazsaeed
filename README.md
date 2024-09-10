@@ -134,10 +134,11 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
  <br />
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center" style="border: 2px solid #D3D3D3; border-radius: 15px; padding: 10px; transition: border-color 0.5s;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" style="border-radius: 15px;">
+<h2 align="center" style="font-size: 28px; font-weight: bold;">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" border-radius="15">
 </div>
+
 
 
 
