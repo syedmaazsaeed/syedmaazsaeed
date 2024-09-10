@@ -147,7 +147,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
-   <p id="quote-text">Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101. 💻🌐"</p>
+   <p id="quote-text">Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101(Theory of Automata 🌚. 💻🌐"</p>
 
 <div align="center" style="margin-top: 20px;" >
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
@@ -169,7 +169,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=syedmaaz Instagram style="margin-bottom: 6px;" />
 
 <a href="https://twitter.com/SyedMaazSaeed" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="syedmaaz Twitter" style="margin-bottom: 6px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="syedmaazsaeed Twitter" style="margin-bottom: 6px;" />
 </a>
 </div>
 <br/>
