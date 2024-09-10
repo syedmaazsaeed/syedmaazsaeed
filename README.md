@@ -141,13 +141,17 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 
 </br>
-<a href="https://github.com/syedmaazsaeed" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
-</a>
+<h2 align="center">💻 Top Languages 💻</h2>
+<div align="center" style="margin: 20px;">
+  <a href="https://github.com/syedmaazsaeed">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);" />
+  </a>
+</div>
+
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
-   <p id="quote-text">Living in a world of binary possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101 (Theory of Automata 🌚). 💻🌐"</p>
+   <p id="quote-text">Living in a World of Binary Possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101 (Theory of Automata 🌚). 💻🌐"</p>
 
 <div align="center" style="margin-top: 20px;" >
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
