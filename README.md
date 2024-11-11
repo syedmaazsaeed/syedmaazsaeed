@@ -149,7 +149,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 <div align="center">
   
-![snake gif](https://github.com/syedmaazsaeed/syedmaazsaeed/blob/output/github-contribution-grid-snake.gif)
+![snake gif]( https://github.com/syedmaazsaeed/syedmaazsaeed/blob/output/github-contribution-grid-snake.gif )
 
 </div>
 
