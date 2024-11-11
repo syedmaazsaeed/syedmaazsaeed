@@ -116,6 +116,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   </tr>
 </table>
 
+## Development Work: 💭
   <p align="center">
       <a href="https://github.com/syedmaazsaeed">
           <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedmaazsaeed&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -136,8 +137,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <!-- GitHub Trophy -->
 ## 🏆 Achievement Showcase  🏆
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
- <br />
+ 
 ## 🛡️ GitHub Contribution Snake 🐍
 <div align="center">
   
