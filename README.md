@@ -143,8 +143,9 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ## GitHub Contribution Snake 🐍
 
 <div align="center">
-<img  src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
+
 
 
 </br>
