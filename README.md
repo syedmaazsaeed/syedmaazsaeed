@@ -138,9 +138,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
  <br />
-
-## GitHub Contribution Snake 🐍
-
+## 🛡️ GitHub Contribution Snake 🐍
 <div align="center">
   
 ![snake gif]( https://github.com/syedmaazsaeed/syedmaazsaeed/blob/output/github-contribution-grid-snake.gif )
