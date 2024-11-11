@@ -140,15 +140,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" border-radius="15px">
 </div>
 
-<br/>
-## GitHub Contribution Snake 🐍
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-
-
-
 </br>
 <a href="https://github.com/syedmaazsaeed" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
