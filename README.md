@@ -116,34 +116,34 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   </tr>
 </table>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<table width="100%">
-  <tr>
-    <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedmaazsaeed&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <p align="center">
+      <a href="https://github.com/syedmaazsaeed">
+          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedmaazsaeed&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+      </a>
+  </p>
 
-   </td>
-    <td align="center">
-<img src="https://streak-stats.demolab.com?user=syedmaazsaeed&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+ <p align="center">
+   <a href="https://github.com/syedmaazsaeed"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+   </a>  
+ </p>
+
+[![syedmaazsaeed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=github-compact&area=true)](https://github.com/syedmaazsaeed/)
+
+<br>
 
 <!-- GitHub Trophy -->
 ## 🏆 Achievement Showcase  🏆
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
  <br />
-
 <h2 align="center" style="font-size: 35px; font-weight: bold;">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&bg_color=011627&color=D3D3D3&line=FFFFFF&point=000000&area=true&hide_border=false" border-radius="15px">
 </div>
 
 </br>
-<a href="https://github.com/syedmaazsaeed" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
-</a>
 
 ## GitHub Contribution Snake 🐍
 
