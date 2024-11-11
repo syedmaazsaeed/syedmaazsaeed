@@ -145,6 +145,13 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=10&layout=compact&theme=tokyonight" alt="Coding language cocktail" />
 </a>
 
+## GitHub Contribution Snake 🐍
+
+<div align="center">
+  
+![snake gif](https://github.com/syedmaazsaeed/syedmaazsaeed/blob/output/github-contribution-grid-snake.gif)
+
+</div>
 
 
 <blockquote id="quote-container" align="center">
