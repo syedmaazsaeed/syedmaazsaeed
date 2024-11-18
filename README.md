@@ -138,14 +138,6 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ## 🏆 Achievement Showcase  🏆
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
  
-## 🛡️ GitHub Contribution Snake 🐍
-<div align="center">
-  
-![snake gif]( https://github.com/syedmaazsaeed/syedmaazsaeed/blob/output/github-contribution-grid-snake.gif )
-
-</div>
-
-
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
    <p id="quote-text">Living in a World of Binary Possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101 (Theory of Automata 🌚). 💻🌐"</p>
