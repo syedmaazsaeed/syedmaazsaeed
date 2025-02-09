@@ -130,7 +130,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
    </a>  
  </p>
 
-[![syedmaazsaeed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=github-compact&area=true)](https://github.com/syedmaazsaeed/)
+[![syedmaazsaeed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=github-compact&area=true&color=FACC15&line=7E22CE&point=22D3EE&bg_color=0D1117&area_color=3B82F6)](https://github.com/syedmaazsaeed/)
+
 
 <br>
 
