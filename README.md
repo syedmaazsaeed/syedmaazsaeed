@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&weight=300&size=27&pause=1000&color=351A92&center=true&random=false&width=500&lines=Crafting+React+Experiences+%E2%9C%A8;Shaping+Frontend+Realities+%F0%9F%8C%9F;Embracing+the+MERN+Stack+Journey+%F0%9F%9A%80;Explore+My+Digital+Haven+%F0%9F%8C%90;Enthusiastic+about+MERN+Innovations+%F0%9F%8C%9F;Welcome+to+My+Tech+Playground+%F0%9F%9A%80;Building+Tomorrow's+Frontend+Today+%F0%9F%8C%90;Step+into+My+Digital+Wonderland+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
 <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204" target="_blank">
 <img src="https://i.postimg.cc/xdSp2ZtT/Purple-Minimalist-App-Developer-New-Linked-In-Banner-1.png" alt="LinkedIn Banner" border="0" width="100%" />
 </a>
@@ -38,15 +37,15 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
   <summary>Click to Expand for more details 🤭</summary>
   <br>
 
-# Experience 
+# Experience
 
 -🌟Previous Experience: I have built numerous projects using JavaScript and React.js, showcasing my expertise in these technologies.
 
 -🚀Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
 
--🎓Education: I hold a Bachelor's in Software  Engineering from Islamia University Of Bahawalpur.
-  ✨💫💫
-  
+-🎓Education: I hold a Bachelor's in Software Engineering from Islamia University Of Bahawalpur.
+✨💫💫
+
 -🧩My fusion of design intuition and robust coding skills enables me to turn abstract ideas into concrete digital marvels. I transform ideas into digital masterpieces, blending design with clean, efficient code to create engaging, functional user experiences. My keen attention to detail bridges the gap between aesthetics and functionality, ensuring every user interaction is delightful and purposeful. With years of experience in the field.✨💫💫
 
 </details>
@@ -54,6 +53,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ## 🛠️ My Skill Set:
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -66,17 +66,20 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Deployment
+
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Tools & Utilities
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -86,8 +89,8 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
 ### Design
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## Furthermore, I'm familiar with 🙂:
 
@@ -103,10 +106,16 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 - 🛡️ **Holopin Badges:** Showcasing contributions. [Holopin Profile](https://holopin.io/@syedmaazsaeed)
 - 🎓 **Certified in Basic React:** [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
 - 🎓 **Bachelor's in Software Engineering:** Graduated from Islamia University with a degree in SE, providing a strong <br/>foundation for my career in technology.
-  
-## 🌟 Accomplishments 🥈 🌟 : 
+
+## 🌟 Accomplishments 🥈 🌟 :
 
 [![An image of @syedmaazsaeed's Holopin badges](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
+
+## GitHub Contribution Snake 🐍
+
+<div align="center">
+<img  src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
 
 <table align="center" width="100%">
   <tr>
@@ -117,6 +126,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 </table>
 
 ## Development Work: 💭
+
   <p align="center">
       <a href="https://github.com/syedmaazsaeed">
           <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedmaazsaeed&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -132,13 +142,14 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 [![syedmaazsaeed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark&area=true&color=00FFFF&line=FFFFFF&point=800080&bg_color=000000&area_color=121212)](https://github.com/syedmaazsaeed/)
 
-
 <br>
 
 <!-- GitHub Trophy -->
-## 🏆 Achievement Showcase  🏆
+
+## 🏆 Achievement Showcase 🏆
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">🧩 "From syntax errors to success stories. 📈💻" 🧩</h2>
    <p id="quote-text">Living in a World of Binary Possibilities. 01010100 01110010 01110101 01110011 01110100 00100000 01101101 01100101 (Theory of Automata 🌚). 💻🌐"</p>
@@ -147,9 +158,10 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
 </div>
 
-<!--Contact Section--> 
+<!--Contact Section-->
 
 ## Let's connect and see where our shared passion for technology can take us! 💻🚀
+
 <div align="center">
  <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -174,12 +186,11 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 <a href="https://www.buymeacoffee.com/syedmaazsaeed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-<!--Footer--> 
+<!--Footer-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
 
 <p align="center" style="margin-top: 30px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
