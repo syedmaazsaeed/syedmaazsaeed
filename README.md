@@ -111,7 +111,7 @@ Software Engineer | Hacker | ■ Passionate about Web and Mobile App Development
 
 [![An image of @syedmaazsaeed's Holopin badges](https://holopin.me/syedmaazsaeed)](https://holopin.io/@syedmaazsaeed)
 
-## GitHub Contribution Snake 🐍
+## GitHub Contributions 📊 :
 
 <div align="center">
 <img  src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
