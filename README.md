@@ -94,15 +94,12 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 - Automated over 40+ AI-driven workflows for operations, marketing, and CRM tasks
 - Integrated multiple third-party APIs including OpenAI, Twilio, Zoho CRM, and Bland AI
 
-**Achievements:**
-- Designed industry-level voice and text agents currently used by real clients for business-critical tasks, such as lead generation, CRM updates, and customer support
-- Developed and maintained AI-driven automation workflows that are actively deployed in production environments, reducing manual tasks and improving operational efficiency
 
 **Tech Stack:** n8n | OpenAI API | ElevenLabs | Bland AI | Twilio | Zapier | Make.com | Postman | Zoho CRM | AI Agents | Voice Technology | Conversational AI | Function Calling | Webhooks | Database Integration | API Automation | Voice Cloning | Workflow Orchestration | Custom Nodes
 
 ---
 
-**Fiverr - Software Engineer | Full Stack Developer | AI Engineer | AI Automation Expert**
+**Fiverr - Software Engineer | Full Stack Developer | AI Automation Expert**
 *Jun 2023 - Present | Bahawalpur, Punjab, Pakistan (Freelance)*
 
 - Delivering custom full-stack web applications and AI automation solutions for international clients
@@ -172,14 +169,14 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 
 ## 🌟 Recent Achievements
 
-- 🥇 **Gold Medalist** — Bachelor's in Software Engineering, CGPA 3.97/4.00 (Department Topper)
-- 🚀 **40+ Production AI Workflows** — Live systems used by clients in legal, healthcare, and real estate
-- 🌍 **Remote Engineering** — Delivering for international clients
-- 🎓 **Certified in React** — Meta via Coursera [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
-- 🚀 **Hacktoberfest Contributor** — Active open-source contributor [Profile](https://holopin.io/@syedmaazsaeed)
-- 🌳 **Environmental Advocate** — Planted trees through Tree Nation [Forest](https://tree-nation.com/trees/view/5327641)
-- 💼 **Full-Stack JavaScript Development** — LinkedIn Learning [Certificate](https://www.linkedin.com/learning/certificates/)
-- 🎯 **Interview Mastery** — Arbisoft Certification
+- 🥇 **Gold Medalist** : Bachelor's in Software Engineering, CGPA 3.97/4.00 (Department Topper)
+- 🚀 **40+ Production AI Workflows** : Live systems used by clients in legal, healthcare, and real estate
+- 🌍 **Remote Engineering** : Delivering for international clients
+- 🎓 **Certified in React** : Meta via Coursera [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
+- 🚀 **Hacktoberfest Contributor** : Active open-source contributor [Profile](https://holopin.io/@syedmaazsaeed)
+- 🌳 **Environmental Advocate** : Planted trees through Tree Nation [Forest](https://tree-nation.com/trees/view/5327641)
+- 💼 **Full-Stack JavaScript Development** : LinkedIn Learning [Certificate](https://www.linkedin.com/learning/certificates/)
+- 🎯 **Interview Mastery** : Arbisoft Certification
 
 ## 🌟 Accomplishments 🥈
 
