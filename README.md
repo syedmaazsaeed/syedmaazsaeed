@@ -23,16 +23,16 @@
 
 **Who I Am**: Full Stack Developer & Automation Engineer specializing in building intelligent web applications and AI-powered automation systems that solve real business problems.
 
-**What I Do**: I work with modern technologies like **React.js**, **Next.js**, **Node.js**, and **MongoDB** to create scalable, high-performance web applications. Beyond traditional development, I specialize in **AI automation** — designing conversational AI agents with **OpenAI and ElevenLabs**, building lifelike voice and text agents, and creating intelligent workflows using **n8n, Make, and Zapier**.
+**What I Do**: I work with modern technologies like **React.js**, **Next.js**, **Node.js**, and **MongoDB** to create scalable, high-performance web applications. Beyond traditional development, I specialize in **AI automation** designing conversational AI agents with **OpenAI and ElevenLabs**, building lifelike voice and text agents, and creating intelligent workflows using **n8n, Make, and Zapier**.
 
 **Experience**: 4+ years of hands-on experience delivering **40+ production-ready AI workflows** for clients across legal, healthcare, and real estate industries.
 
-**Education**: Bachelor's in Software Engineering from The Islamia University of Bahawalpur (Gold Medalist 🥇 | Department Topper | CGPA 3.97/4.00)
+**Education**: Bachelor's in Software Engineering from The Islamia University of Bahawalpur (Gold Medalist 🥇| CGPA 3.97/4.00)
 
 **Current Focus**: Building AI agents, voice automation systems, and full-stack applications that drive business growth and maximize productivity.
 
 <details>
-  <summary>Click to Expand for more details 🤭</summary>
+  <summary>Click to Expand for more details </summary>
   <br>
 
 ## 🎯 What I Build
@@ -54,22 +54,22 @@
 
 ## 🚀 Real Projects Delivered
 
-- **Norbu Legal Marketing Agent** — AI voice agent handling inbound/outbound/SMS for law firm
-- **CycleWise AI Health App** — Women's health tracking with AI coaching agent
-- **NCT Real Estate Suite** — 3-part AI agent system (Talking House + SMS + Voice)
-- **Chrissy Outbound AI Receptionist** — Automated client outreach phone agent
-- **Advanced Mining Solutions** — Enterprise full-stack web platform
-- **AI Pricing Quote Calculator** — Dynamic quote generation using OpenAI
-- **Cold Email Lead Gen System** — LinkedIn-integrated AI outreach automation
+- **Norbu Legal Marketing Agent** : AI voice agent handling inbound/outbound/SMS for law firm
+- **CycleWise AI Health App** : Women's health tracking with AI coaching agent
+- **NCT Real Estate Suite** : 3-part AI agent system (Talking House + SMS + Voice)
+- **Chrissy Outbound AI Receptionist** : Automated client outreach phone agent
+- **Advanced Mining Solutions** : Enterprise full-stack web platform
+- **AI Pricing Quote Calculator** : Dynamic quote generation using OpenAI
+- **Cold Email Lead Gen System** : LinkedIn-integrated AI outreach automation
 
-All deployed in production and actively used by real clients! ✨
+All deployed in production and actively used by real clients! 
 
 ## 🌟 Professional Journey
 
-**REMAP.ai - Full Stack Developer | Software Engineer**
+**REMAP.ai - Full Stack Developer**
 *Mar 2025 - Present | Brisbane, Queensland, Australia (Remote)*
 
-At REMAP.ai, I work with Next.js and MERN stack to create cutting edge web applications. I also handle database architecture and maintenance, create RESTful APIs and integrate AI chatbots into websites. With a focus on intelligent voice agents, conversational text agents, workflow automation using n8n with advanced custom nodes, CRM integrations, webhook orchestration, conditional logic, database operations and multi-step AI pipelines with Open AI API integration. I design, develop and maintain modern AI powered Web Applications with robust front-end and back-end capabilities.
+At REMAP.ai, I work with modern full-stack technologies to create cutting-edge web applications. I handle database architecture and maintenance, create RESTful APIs and integrate AI chatbots into websites. With a focus on intelligent voice agents, conversational text agents, workflow automation using n8n with advanced custom nodes, CRM integrations, webhook orchestration, conditional logic, database operations and multi-step AI pipelines with OpenAI API integration. I design, develop and maintain modern AI-powered web applications with robust front-end and back-end capabilities.
 
 **Full Stack Development:**
 - Build responsive and performant front-end interfaces using React.js, Next.js, and Tailwind CSS
@@ -111,20 +111,6 @@ At REMAP.ai, I work with Next.js and MERN stack to create cutting edge web appli
 - Created responsive, mobile-first web interfaces with React.js, Next.js, HTML, CSS, and JavaScript
 - Built scalable backend APIs with Node.js, Express.js, and integrated MongoDB and PostgreSQL databases
 - Worked across diverse industries: legal, healthcare, real estate, and e-commerce
-
----
-
-**GitHub Global Campus - GitHub Campus Student**
-*Oct 2024 - Oct 2025 | San Francisco, California, U.S. (Remote - Apprenticeship)*
-
-Currently part of the GitHub Global Campus, gaining hands-on experience with industry tools while collaborating with a global developer community. With access to the GitHub Student Developer Pack, exploring new technologies, contributing to projects, and enhancing skills in software development. This allows me to enjoy GitHub Student Developer Pack exclusive benefits and resources that shape the future of software development.
-
----
-
-**Hacktoberfest - Open Source Contributor**
-*Oct 2023 | New York, United States (Remote - Seasonal)*
-
-Passionate about contributing to open-source projects and promoting environmental sustainability by planting trees through Tree Nation. Contributing to the tech community and making a positive environmental impact.
 
 ---
 
