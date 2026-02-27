@@ -23,16 +23,16 @@
 
 **Who I Am**: Full Stack Developer & Automation Engineer specializing in building intelligent web applications and AI-powered automation systems that solve real business problems.
 
-**What I Do**: I work with modern technologies like **React.js**, **Next.js**, **Node.js**, and **MongoDB** to create scalable, high-performance web applications. Beyond traditional development, I specialize in **AI automation** — designing conversational AI agents with **OpenAI and ElevenLabs**, building lifelike voice and text agents, and creating intelligent workflows using **n8n, Make, and Zapier**.
+**What I Do**: I work with modern technologies like **React.js**, **Next.js**, **Node.js**, and **MongoDB** to create scalable, high-performance web applications. Beyond traditional development, I specialize in **AI automation** designing conversational AI agents with **OpenAI and ElevenLabs**, building lifelike voice and text agents, and creating intelligent workflows using **n8n, Make, and Zapier**.
 
 **Experience**: 4+ years of hands-on experience delivering **40+ production-ready AI workflows** for clients across legal, healthcare, and real estate industries.
 
-**Education**: Bachelor's in Software Engineering from The Islamia University of Bahawalpur (Gold Medalist 🥇 | Department Topper | CGPA 3.97/4.00)
+**Education**: Bachelor's in Software Engineering from The Islamia University of Bahawalpur (Gold Medalist 🥇| CGPA 3.97/4.00)
 
 **Current Focus**: Building AI agents, voice automation systems, and full-stack applications that drive business growth and maximize productivity.
 
 <details>
-  <summary>Click to Expand for more details 🤭</summary>
+  <summary>Click to Expand for more details </summary>
   <br>
 
 ## 🎯 What I Build
@@ -54,19 +54,19 @@
 
 ## 🚀 Real Projects Delivered
 
-- **Norbu Legal Marketing Agent** — AI voice agent handling inbound/outbound/SMS for law firm
-- **CycleWise AI Health App** — Women's health tracking with AI coaching agent
-- **NCT Real Estate Suite** — 3-part AI agent system (Talking House + SMS + Voice)
-- **Chrissy Outbound AI Receptionist** — Automated client outreach phone agent
-- **Advanced Mining Solutions** — Enterprise full-stack web platform
-- **AI Pricing Quote Calculator** — Dynamic quote generation using OpenAI
-- **Cold Email Lead Gen System** — LinkedIn-integrated AI outreach automation
+- **Norbu Legal Marketing Agent** : AI voice agent handling inbound/outbound/SMS for law firm
+- **CycleWise AI Health App** : Women's health tracking with AI coaching agent
+- **NCT Real Estate Suite** : 3-part AI agent system (Talking House + SMS + Voice)
+- **Chrissy Outbound AI Receptionist** : Automated client outreach phone agent
+- **Advanced Mining Solutions** : Enterprise full-stack web platform
+- **AI Pricing Quote Calculator** : Dynamic quote generation using OpenAI
+- **Cold Email Lead Gen System** : LinkedIn-integrated AI outreach automation
 
-All deployed in production and actively used by real clients! ✨
+All deployed in production and actively used by real clients! 
 
 ## 🌟 Professional Journey
 
-**REMAP.ai - Full Stack Developer | Software Engineer**
+**REMAP.ai - Full Stack Developer**
 *Mar 2025 - Present | Brisbane, Queensland, Australia (Remote)*
 
 At REMAP.ai, I work with modern full-stack technologies to create cutting-edge web applications. I handle database architecture and maintenance, create RESTful APIs and integrate AI chatbots into websites. With a focus on intelligent voice agents, conversational text agents, workflow automation using n8n with advanced custom nodes, CRM integrations, webhook orchestration, conditional logic, database operations and multi-step AI pipelines with OpenAI API integration. I design, develop and maintain modern AI-powered web applications with robust front-end and back-end capabilities.
@@ -94,15 +94,12 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 - Automated over 40+ AI-driven workflows for operations, marketing, and CRM tasks
 - Integrated multiple third-party APIs including OpenAI, Twilio, Zoho CRM, and Bland AI
 
-**Achievements:**
-- Designed industry-level voice and text agents currently used by real clients for business-critical tasks, such as lead generation, CRM updates, and customer support
-- Developed and maintained AI-driven automation workflows that are actively deployed in production environments, reducing manual tasks and improving operational efficiency
 
 **Tech Stack:** n8n | OpenAI API | ElevenLabs | Bland AI | Twilio | Zapier | Make.com | Postman | Zoho CRM | AI Agents | Voice Technology | Conversational AI | Function Calling | Webhooks | Database Integration | API Automation | Voice Cloning | Workflow Orchestration | Custom Nodes
 
 ---
 
-**Fiverr - Software Engineer | Full Stack Developer | AI Engineer | AI Automation Expert**
+**Fiverr - Software Engineer | Full Stack Developer | AI Automation Expert**
 *Jun 2023 - Present | Bahawalpur, Punjab, Pakistan (Freelance)*
 
 - Delivering custom full-stack web applications and AI automation solutions for international clients
@@ -111,20 +108,6 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 - Created responsive, mobile-first web interfaces with React.js, Next.js, HTML, CSS, and JavaScript
 - Built scalable backend APIs with Node.js, Express.js, and integrated MongoDB and PostgreSQL databases
 - Worked across diverse industries: legal, healthcare, real estate, and e-commerce
-
----
-
-**GitHub Global Campus - GitHub Campus Student**
-*Oct 2024 - Oct 2025 | San Francisco, California, U.S. (Remote - Apprenticeship)*
-
-Currently part of the GitHub Global Campus, gaining hands-on experience with industry tools while collaborating with a global developer community. With access to the GitHub Student Developer Pack, exploring new technologies, contributing to projects, and enhancing skills in software development. This allows me to enjoy GitHub Student Developer Pack exclusive benefits and resources that shape the future of software development.
-
----
-
-**Hacktoberfest - Open Source Contributor**
-*Oct 2023 | New York, United States (Remote - Seasonal)*
-
-Passionate about contributing to open-source projects and promoting environmental sustainability by planting trees through Tree Nation. Contributing to the tech community and making a positive environmental impact.
 
 ---
 
@@ -186,14 +169,14 @@ Passionate about contributing to open-source projects and promoting environmenta
 
 ## 🌟 Recent Achievements
 
-- 🥇 **Gold Medalist** — Bachelor's in Software Engineering, CGPA 3.97/4.00 (Department Topper)
-- 🚀 **40+ Production AI Workflows** — Live systems used by clients in legal, healthcare, and real estate
-- 🌍 **Remote Engineering** — Delivering for international clients
-- 🎓 **Certified in React** — Meta via Coursera [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
-- 🚀 **Hacktoberfest Contributor** — Active open-source contributor [Profile](https://holopin.io/@syedmaazsaeed)
-- 🌳 **Environmental Advocate** — Planted trees through Tree Nation [Forest](https://tree-nation.com/trees/view/5327641)
-- 💼 **Full-Stack JavaScript Development** — LinkedIn Learning [Certificate](https://www.linkedin.com/learning/certificates/)
-- 🎯 **Interview Mastery** — Arbisoft Certification
+- 🥇 **Gold Medalist** : Bachelor's in Software Engineering, CGPA 3.97/4.00 (Department Topper)
+- 🚀 **40+ Production AI Workflows** : Live systems used by clients in legal, healthcare, and real estate
+- 🌍 **Remote Engineering** : Delivering for international clients
+- 🎓 **Certified in React** : Meta via Coursera [Certificate](https://www.coursera.org/account/accomplishments/verify/5VJHS366GCB8)
+- 🚀 **Hacktoberfest Contributor** : Active open-source contributor [Profile](https://holopin.io/@syedmaazsaeed)
+- 🌳 **Environmental Advocate** : Planted trees through Tree Nation [Forest](https://tree-nation.com/trees/view/5327641)
+- 💼 **Full-Stack JavaScript Development** : LinkedIn Learning [Certificate](https://www.linkedin.com/learning/certificates/)
+- 🎯 **Interview Mastery** : Arbisoft Certification
 
 ## 🌟 Accomplishments 🥈
 
@@ -202,7 +185,7 @@ Passionate about contributing to open-source projects and promoting environmenta
 ## GitHub Contributions 📊
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/syedmuhammadmaaz/syedmuhammadmaaz/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img src="https://raw.githubusercontent.com/syedmaazsaeed/syedmaazsaeed/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 
 <table align="center" width="100%">
@@ -216,25 +199,25 @@ Passionate about contributing to open-source projects and promoting environmenta
 ## Development Stats 💭
 
 <p align="center">
-    <a href="https://github.com/syedmuhammadmaaz">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedmuhammadmaaz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedmuhammadmaaz&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/syedmaazsaeed">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedmaazsaeed&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedmaazsaeed&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/syedmuhammadmaaz"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadmaaz&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+  <a href="https://github.com/syedmaazsaeed"> 
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmaazsaeed&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
   </a>  
 </p>
 
-[![syedmuhammadmaaz github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadmaaz&theme=react-dark&area=true&color=00FFFF&line=FFFFFF&point=800080&bg_color=000000&area_color=121212)](https://github.com/syedmuhammadmaaz/)
+[![syedmaazsaeed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmaazsaeed&theme=react-dark&area=true&color=00FFFF&line=FFFFFF&point=800080&bg_color=000000&area_color=121212)](https://github.com/syedmaazsaeed/)
 
 <br>
 
 ## 🏆 Achievement Showcase
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=syedmuhammadmaaz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">💡 "Building Intelligent Systems That Drive Real Results" 💡</h2>
@@ -242,7 +225,7 @@ Passionate about contributing to open-source projects and promoting environmenta
 </blockquote>
 
 <div align="center" style="margin-top: 20px;">
-<img src="https://komarev.com/ghpvc/?username=syedmuhammadmaaz&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
 </div>
 
 ## Let's Connect! 💻🚀
