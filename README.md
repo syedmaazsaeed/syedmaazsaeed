@@ -215,10 +215,6 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 
 <br>
 
-## 🏆 Achievement Showcase
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=syedmaazsaeed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">💡 "Building Intelligent Systems That Drive Real Results" 💡</h2>
   <p id="quote-text">"I Build AI-Powered Automation Systems That Turn Manual Work Into Smart Workflows — Saving Time, Reducing Errors, and Delivering Measurable Business Impact." 🚀💻</p>
@@ -228,7 +224,7 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 <img src="https://komarev.com/ghpvc/?username=syedmaazsaeed&&style=flat-square" align="center" />
 </div>
 
-## Let's Connect! 💻🚀
+## Let's Connect! 💻
 
 <div align="center">
  <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204/" target="_blank">
