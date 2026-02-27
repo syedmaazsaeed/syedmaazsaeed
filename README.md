@@ -217,7 +217,7 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 
 <blockquote id="quote-container" align="center">
   <h2 id="quote-title">💡 "Building Intelligent Systems That Drive Real Results" 💡</h2>
-  <p id="quote-text">"I Build AI-Powered Automation Systems That Turn Manual Work Into Smart Workflows — Saving Time, Reducing Errors, and Delivering Measurable Business Impact." 🚀💻</p>
+  <p id="quote-text">"I Build AI-Powered Automation Systems That Turn Manual Work Into Smart Workflows Saving Time, Reducing Errors and Delivering Measurable Business Impact." </p>
 </blockquote>
 
 <div align="center" style="margin-top: 20px;">
