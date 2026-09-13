@@ -235,7 +235,7 @@ At REMAP.ai, I work with modern full-stack technologies to create cutting-edge w
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=syedmaazsaeed@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://syedmaazsaeed.dev/" target="_blank">
+<a href="https://syedmaazsaeed.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
 
