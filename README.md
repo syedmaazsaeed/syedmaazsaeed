@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <samp>&gt; Hi There!, I am
-    <b><a target="_blank" href="https://syedmaazsaeed.dev/">Syed Maaz Saeed</a></b>
+    <b><a target="_blank" href="https://syedmaazsaeed.me/">Syed Maaz Saeed</a></b>
   </samp>
 </h3>
 
